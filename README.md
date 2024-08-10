@@ -12,4 +12,4 @@ Jika Anda ingin menjalankan program ini, Anda dapat melakukan clone repository a
 Bonus yang saya kerjakan adalah deployment, tampilan yang responsif, dan kreativitas. Saya tidak mengerjakan bonus CMS karena belum memahami cara kerjanya dengan baik.
 
 #LINK DEPLOYMENT
-[(menyusul)](https://project-website-sparta.vercel.app/)
+https://project-website-sparta.vercel.app/
